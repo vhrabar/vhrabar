@@ -18,4 +18,5 @@
   <a href="https://launchpad.net/~vhrabar"><img src="https://img.shields.io/badge/Launchpad-343a40?style=for-the-badge&logo=canonical&logoColor=white" alt="Launchpad" /></a>&nbsp;
   <a href="https://copr.fedorainfracloud.org/coprs/vhrabar/"><img src="https://img.shields.io/badge/Copr-343a40?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora Copr" /></a>&nbsp;
   <a href="https://aur.archlinux.org/account/vhrabar0"><img src="https://img.shields.io/badge/AUR-343a40?style=for-the-badge&logo=archlinux&logoColor=white" alt="AUR" /></a>&nbsp;
+  <a href="https://plugins.jetbrains.com/vendor/vhrabar"><img src="https://img.shields.io/badge/JetBrains-343a40?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JettBains" /></a>&nbsp;
 </p>
