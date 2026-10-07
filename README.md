@@ -1,6 +1,6 @@
 <h1 align="center">Vedran Hrabar</h1>
 <p align="center">Computer vision &middot; machine learning &middot; GPU computing</p>
-<p align="center"><sub>CS Grad @ FER, University of Zagreb &mdash; Zagreb, Croatia</sub></p>
+<p align="center"><sub>MSc student @ FER, University of Zagreb &mdash; Zagreb, Croatia</sub></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-343a40?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-343a40?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
